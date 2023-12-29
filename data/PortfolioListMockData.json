@@ -2,37 +2,66 @@
   "result": [
     {
       "targetDevice": "pc",
-      "deployUrl": "/",
-      "projectName": "goobEune",
-      "projectImage": "../goobne/images/main_banner_01.jpg",
-      "description": "굽네치킨 클론 코딩",
-      "techStacks": ["React", "styled-components"],
+      "deployUrl": "https://syon013.github.io/connection",
+      "projectName": "connection",
+      "projectImage": "",
+      "description": "위치 기반 서비스를 이용한 지역 경제 살리기 ",
+      "techStacks": ["React", "styled-components", "Redux", "CRA", "Github"],
       "mainTask": [
+        "로그인(일반, 카카오 소셜)/회원가입 기능 구현",
+        "Item Sorting 기능 구현",
+        "장바구니 기능 구현",
+        "우편번호 검색 기능 구현",
+        "Portal 기능을 이용하여 모달팝업 기능 구현",
+        "Theme Provider를 이용하여 테마 스위치 개발"
+      ],
+      "repoUrl": "https://github.com/syon013/connection"
+    },
+    {
+      "targetDevice": "pc",
+      "deployUrl": "/",
+      "projectName": "WONDERead-front-admin-web",
+      "projectImage": "",
+      "description": "WONDERead Admin Page 개발 (기밀 유지 서약서 작성으로 인한 프로젝트 비공개)",
+      "techStacks": [
+        "React",
+        "TailwindCSS",
+        "CRA",
+        "Chart.js",
+        "Github",
+        "Axios"
+      ],
+      "mainTask": [
+        "로그인/회원가입 UI 및 기능 개발",
+        "React-chartjs-2를 이용하여 차트 구현",
+        "TailwindCSS를 이용하여 UI 개발",
+        "Axios 모듈화"
+      ],
+      "repoUrl": ""
+    },
+    {
+      "targetDevice": "pc",
+      "deployUrl": "https://syon013.github.io/goobne/",
+      "projectName": "goobne",
+      "projectImage": "../portfolio/images/goobneImage.png",
+      "description": "굽네치킨 클론 코딩",
+      "techStacks": [
+        "React",
+        "styled-components",
+        "Javascript",
+        "Redux",
+        "Vite",
+        "Axios",
+        "Github"
+      ],
+      "mainTask": [
+        "Redux와 Redux Toolkit를 사용하여 전역 상태 관리 처리",
         "Axios 모듈화",
-        "Button & Input 컴포넌트",
+        "SelectBox & Badge & DropDown 등 컴포넌트 개발",
+        "메인 페이지 및 상세페이지 로직 개발",
         "장바구니 로직 개발"
       ],
-      "repoUrl": "https://github.com/ryushin01/goobne"
-    },
-    {
-      "targetDevice": "mobile",
-      "deployUrl": "/",
-      "projectName": "test",
-      "projectImage": "",
-      "description": "test",
-      "techStacks": ["React", "styled-components"],
-      "mainTask": ["N/A"],
-      "repoUrl": "https://github.com/ryushin01/goobne"
-    },
-    {
-      "targetDevice": "responsive",
-      "deployUrl": "/",
-      "projectName": "sample",
-      "projectImage": "",
-      "description": "sample",
-      "techStacks": ["React", "styled-components"],
-      "mainTask": ["N/A"],
-      "repoUrl": "https://github.com/ryushin01/goobne"
+      "repoUrl": "https://github.com/syon013/goobne"
     }
   ]
 }

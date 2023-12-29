@@ -1,0 +1,84 @@
+{
+  "result": [
+    {
+      "stackImage": "../portfolio/images/skillset/react.svg",
+      "stackName": "React",
+      "description": ["text"]
+    },
+    {
+      "stackImage": "../portfolio/images/skillset/styledcomponents.svg",
+      "stackName": "styled-components",
+      "description": ["text"]
+    },
+    {
+      "stackImage": "../portfolio/images/skillset/javascript.svg",
+      "stackName": "JavaScript",
+      "description": ["text"]
+    },
+    {
+      "stackImage": "../portfolio/images/skillset/vite.svg",
+      "stackName": "Vite",
+      "description": ["text"]
+    },
+    {
+      "stackImage": "../portfolio/images/skillset/git.svg",
+      "stackName": "Git",
+      "description": ["text"]
+    },
+    {
+      "stackImage": "../portfolio/images/skillset/axios.svg",
+      "stackName": "Axios",
+      "description": ["text"]
+    },
+    {
+      "stackImage": "../portfolio/images/skillset/createreactapp.svg",
+      "stackName": "CRA",
+      "description": ["text"]
+    },
+    {
+      "stackImage": "../portfolio/images/skillset/css3.svg",
+      "stackName": "CSS",
+      "description": ["text"]
+    },
+    {
+      "stackImage": "../portfolio/images/skillset/html5.svg",
+      "stackName": "HTML",
+      "description": ["text"]
+    },
+    {
+      "stackImage": "../portfolio/images/skillset/recoil.svg",
+      "stackName": "Recoil",
+      "description": ["text"]
+    },
+    {
+      "stackImage": "../portfolio/images/skillset/redux.svg",
+      "stackName": "Redux",
+      "description": ["text"]
+    },
+    {
+      "stackImage": "../portfolio/images/skillset/sass.svg",
+      "stackName": "Sass",
+      "description": ["text"]
+    },
+    {
+      "stackImage": "../portfolio/images/skillset/swiper.svg",
+      "stackName": "Swiper",
+      "description": ["text"]
+    },
+    {
+      "stackImage": "../portfolio/images/skillset/tailwindcss.svg",
+      "stackName": "Tailwind CSS",
+      "description": ["text"]
+    },
+    {
+      "stackImage": "../portfolio/images/skillset/typescript.svg",
+      "stackName": "TypeScript",
+      "description": ["text"]
+    },
+    {
+      "stackImage": "../portfolio/images/skillset/vuejs.svg",
+      "stackName": "Vue",
+      "description": ["text"]
+    }
+  ]
+}
