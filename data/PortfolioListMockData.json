@@ -6,7 +6,8 @@
       "projectName": "connection",
       "projectImage": "",
       "description": "위치 기반 서비스를 이용한 지역 경제 살리기 ",
-      "techStacks": ["React", "styled-components", "Redux", "CRA", "Github"],
+      "techStacks": ["React", "styled-components", "Redux", "CRA"],
+      "Cooperation": ["Slack", "Trello", "Github"],
       "mainTask": [
         "로그인(일반, 카카오 소셜)/회원가입 기능 구현",
         "Item Sorting 기능 구현",
@@ -31,6 +32,7 @@
         "Github",
         "Axios"
       ],
+      "Cooperation": ["Slack", "Jira", "Github"],
       "mainTask": [
         "로그인/회원가입 UI 및 기능 개발",
         "React-chartjs-2를 이용하여 차트 구현",
@@ -51,9 +53,9 @@
         "Javascript",
         "Redux",
         "Vite",
-        "Axios",
-        "Github"
+        "Axios"
       ],
+      "Cooperation": ["Slack", "Github", "Notion"],
       "mainTask": [
         "Redux와 Redux Toolkit를 사용하여 전역 상태 관리 처리",
         "Axios 모듈화",
