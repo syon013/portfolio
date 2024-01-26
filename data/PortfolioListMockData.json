@@ -42,7 +42,7 @@
       "repoUrl": ""
     },
     {
-      "targetDevice": "pc",
+      "targetDevice": "responsive",
       "deployUrl": "https://syon013.github.io/goobne/",
       "projectName": "goobne",
       "projectImage": "../portfolio/images/goobneImage.png",
@@ -61,9 +61,25 @@
         "Axios 모듈화",
         "SelectBox & Badge & DropDown 등 컴포넌트 개발",
         "메인 페이지 및 상세페이지 로직 개발",
-        "장바구니 로직 개발"
+        "장바구니 로직 개발",
+        "media query 모듈화를 이용하여 반응형 웹 구현"
       ],
       "repoUrl": "https://github.com/syon013/goobne"
+    },
+    {
+      "targetDevice": "responsive",
+      "deployUrl": "https://syon013.github.io/money-protector/",
+      "projectName": "money-protector",
+      "projectImage": "",
+      "description": "반응형으로 제작한 가계부 웹 어플리케이션",
+      "techStacks": ["React", "TailwindCSS", "Javascript", "Vite"],
+      "Cooperation": ["Slack", "Github", "Notion"],
+      "mainTask": [
+        "media query 모듈화를 이용하여 반응형 웹 구현",
+        "Button, Modal, Footer 등 컴포넌트 개발",
+        "GateWay, Calender 페이지 개발"
+      ],
+      "repoUrl": "https://github.com/syon013/money-protector"
     }
   ]
 }

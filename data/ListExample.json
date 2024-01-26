@@ -10,7 +10,8 @@
       "mainTask": [
         "Axios 모듈화",
         "Button & Input 컴포넌트",
-        "장바구니 로직 개발"
+        "장바구니 로직 개발",
+        "media query를 이용한 반응형 웹 구현"
       ],
       "repoUrl": "https://github.com/ryushin01/goobne"
     },
