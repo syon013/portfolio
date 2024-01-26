@@ -75,7 +75,7 @@
       "techStacks": ["React", "TailwindCSS", "Javascript", "Vite"],
       "Cooperation": ["Slack", "Github", "Notion"],
       "mainTask": [
-        "media query 모듈화를 이용하여 반응형 웹 구현",
+        "media query를 이용하여 반응형 웹 구현",
         "Button, Modal, Footer 등 컴포넌트 개발",
         "GateWay, Calender 페이지 개발"
       ],
